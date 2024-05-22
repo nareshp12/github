@@ -5,4 +5,9 @@ You can suppress this message by setting them explicitly. Run the
 following command and follow the instructions in your editor to edit
 your configuration file:
 
-    git config --global --edit
+    git config --global --edit 123
+1234567
+23456
+234
+234
+2233
